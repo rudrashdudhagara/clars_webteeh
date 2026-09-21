@@ -1,0 +1,8 @@
+
+	table{
+		border-style: dashed solid dotted double;
+		border-color:red;
+		border-width:10px;
+		border-top-width:medium;
+		border-bottom-width:thin;
+	}
